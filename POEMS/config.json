@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "meta": "books_config",
+  "last_modified": "20260930",
+  "book_lists": [
+    {
+      "book_name": "ꀉꂿꅩꌺ 妈妈的女儿",
+      "author": "《ꆃꎭꆈꌠꐚꁦꏦꃨ》ꃆꂮꁱꋈꌠ",
+      "text_link": "https://aleeyoung.github.io/resources/books/poems/axmohnixsse.json",
+      "photo_link": "https://aleeyoung.github.io/resources/books/poems/axmohnixsse.jpg",
+      "encoding": "utf-8"
+    },
+    {
+      "book_name": "ꅺꊈꄯꒉ 勒俄特依",
+      "author": "《ꆃꎭꆈꌠꐚꁦꏦꃨ》ꃆꂮꁱꋈꌠ",
+      "text_link": "https://aleeyoung.github.io/resources/books/poems/hnewotepyy.json",
+      "photo_link": "https://aleeyoung.github.io/resources/books/poems/hnewotepyy.jpg",
+      "encoding": "utf-8"
+    },
+    {
+      "book_name": "ꃰꎝ(ꅺꊈꌺ) 雪族(子史篇)",
+      "author": "岭光电 翻译",
+      "text_link": "https://aleeyoung.github.io/resources/books/poems/vonre.json",
+      "photo_link": "https://aleeyoung.github.io/resources/books/poems/vonre.jpg",
+      "encoding": "utf-8"
+    }
+  ]
+}
